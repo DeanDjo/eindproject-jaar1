@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(49, 49, 49);
+
+}
+
+button {
+    border: transparent;
+}
+
+#button1 {
+    background-color: rgb(49, 49, 49);
+}
+
+h1 {
+
+    color: wheat;
+}
+
+th,
+td,
+tr {
+    color: wheat;
+    border: 2px solid rgb(95, 95, 95);
+}
+
+
+a {
+    color: wheat;
+}
+
+#inherits {
+    font-size: medium;
+    color: wheat;
+}
+
+table {
+    display: flex;
+    margin-left: 0%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+input {
+    color: wheat;
+    background-color: rgb(49, 49, 49);
+}
+
+label.login {
+    color: wheat;
+}
